@@ -1,2 +1,2 @@
 created file to check merge conflict
-city : Bangalore
+city : None
